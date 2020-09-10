@@ -1,6 +1,8 @@
 # Mikhail Borisenko
 iOS Developer
+
 mraccoon@icloud.com
+
 GitHub: @MikeRaccoon
 
 ## Objective

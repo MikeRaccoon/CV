@@ -31,6 +31,8 @@ UIKit, SwiftUI, CoreData, Firebase, SpriteKit, AVFoundation, ReactJS, Angular
 
 ## Accomplishments and Personal Projects
 
+BowShock - mobile platform for skateboarders. It's a social media app with video battles, chats, online events and video streaming. Current status: in early development. 
+
 [**Stanford-CS193p**](https://github.com/MikeRaccoon/Stanford-CS193p) - Source code generated for Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)
 
 [**Offline Reader for Reddit**](https://github.com/MikeRaccoon/OfflineReaderForReddit)

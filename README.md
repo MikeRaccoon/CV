@@ -19,7 +19,7 @@ Publishing Industry Specialist, graduated in June 2011
 Swift, JavaScript, HTML/CSS
 
 ### Frameworks
-UIKit, SwiftUI, CoreData, SpriteKit, AVFoundation, ReactJS, Angular
+UIKit, SwiftUI, CoreData, Firebase, SpriteKit, AVFoundation, ReactJS, Angular
 
 ## Experience
 

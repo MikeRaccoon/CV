@@ -25,9 +25,9 @@ UIKit, SwiftUI, CoreData, Firebase, SpriteKit, AVFoundation, ReactJS, Angular
 
 2020-present **Self-Employed** - individual iOS Developer working on personal projects.
 
-2017-2020 [**BidFox**](https://bidfox.ru/#/access/login) - in this company I worked as a Front End Developer with a team of developers to create and maintain web platforms and web apps.
+2016-2020 [**BidFox**](https://bidfox.ru/#/access/login) - in this company I worked as a Front End Developer with a team of developers to create and maintain web platforms and web apps.
 
-2013-2017 **Self-Employed** - during this time I was an individual Front End Developer working as a freelancer/contractor.
+2013-2016 **Self-Employed** - during this time I was an individual Front End Developer working as a freelancer/contractor.
 
 ## Accomplishments and Personal Projects
 

@@ -4,6 +4,7 @@ iOS Developer
 mraccoon@icloud.com
 
 GitHub: @MikeRaccoon
+Likedin: https://www.linkedin.com/in/mike-b
 
 ## Objective
 Developer with experience in web and mobile development. Have an extensive frontend background. Ultimately moved onto iOS Swift development. I enjoy all the challenges this industry offers: delivery, technology, innovation and ongoing learning. Always trying to keep things simple, stay light and responsive, adapt to ever-changing environment.

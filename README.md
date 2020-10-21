@@ -3,9 +3,9 @@ iOS Developer
 
 mraccoon@icloud.com
 
-GitHub: @MikeRaccoon
+GitHub: [**@MikeRaccoon**](https://github.com/MikeRaccoon)
 
-Likedin: https://www.linkedin.com/in/mike-b
+Linkedin: [**Mikhail Borisenko**](https://www.linkedin.com/in/mike-b)
 
 ## Objective
 Developer with experience in web and mobile development. Have an extensive frontend background. Ultimately moved onto iOS Swift development. I enjoy all the challenges this industry offers: delivery, technology, innovation and ongoing learning. Always trying to keep things simple, stay light and responsive, adapt to ever-changing environment.
@@ -25,11 +25,11 @@ UIKit, SwiftUI, CoreData, Firebase, SpriteKit, AVFoundation, ReactJS, Angular
 
 ## Experience
 
-2020-present **Self-Employed** - individual iOS Developer working on personal projects.
+2020-present: **Self-Employed** - individual iOS Developer working on personal projects.
 
-2016-2020 [**BidFox**](https://bidfox.ru/#/access/login) - in this company I worked as a Front End Developer with a team of developers to create and maintain web platforms and web apps.
+2016-2020: [**BidFox**](https://bidfox.ru/#/access/login) - in this company I worked as a Front End Developer with a team of developers to create and maintain web platforms and web apps.
 
-2013-2016 **Self-Employed** - during this time I was an individual Front End Developer working as a freelancer/contractor.
+2013-2016: **Self-Employed** - during this time I was an individual Front End Developer working as a freelancer/contractor.
 
 ## Accomplishments and Personal Projects
 

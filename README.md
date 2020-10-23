@@ -33,12 +33,12 @@ UIKit, SwiftUI, CoreData, Firebase, SpriteKit, AVFoundation, ReactJS, Angular
 
 ## Accomplishments and Personal Projects
 
-BowShock - mobile platform for skateboarders. It's a social media app with video battles, chats, online events and video streaming. Current status: in early development. 
+BowShock - mobile platform for skateboarders featuring camera access for making video contests, chats, online events, social media content and video streaming. (Current status: in early development)
+
+[**StencilCam**](https://github.com/MikeRaccoon/StencilCam) - Simple camera app featuring image overlay and grid.
+
+[**Offline Reader for Reddit**](https://github.com/MikeRaccoon/OfflineReaderForReddit) (Current status: in development)
 
 [**Stanford-CS193p**](https://github.com/MikeRaccoon/Stanford-CS193p) - Source code generated for Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)
 
-[**Offline Reader for Reddit**](https://github.com/MikeRaccoon/OfflineReaderForReddit)
-
-[**HackingWithSwift-UIKit-Edition**](https://github.com/MikeRaccoon/HackingWithSwift-UIKit-Edition) - Source code generated for the 'Hacking with iOS' tutorial series. The code is written for Swift 5 and iOS 13
-
-[**StencilCam**](https://github.com/MikeRaccoon/StencilCam) - Simple camera app featuring image overlay and grid.
+[**HackingWithSwift-UIKit-Edition**](https://github.com/MikeRaccoon/HackingWithSwift-UIKit-Edition) - Source code generated for the 'Hacking with iOS' tutorial series. The code is written for Swift 5 and iOS 13.

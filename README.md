@@ -33,7 +33,7 @@ UIKit, SwiftUI, CoreData, Firebase, SpriteKit, AVFoundation, ReactJS, Angular
 
 ## Accomplishments and Personal Projects
 
-BowShock - mobile platform for skateboarders featuring camera access for making video contests, chats, online events, social media content and video streaming. (Current status: in early development)
+BowShock - mobile platform for skateboarders featuring video contests, chats, online events, social media content and video streaming. (Current status: in early development)
 
 [**StencilCam**](https://github.com/MikeRaccoon/StencilCam) - Simple camera app featuring image overlay and grid.
 

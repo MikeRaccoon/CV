@@ -8,7 +8,7 @@ GitHub: [**@MikeRaccoon**](https://github.com/MikeRaccoon)
 Linkedin: [**Mikhail Borisenko**](https://www.linkedin.com/in/mike-b)
 
 ## Objective
-Developer with experience in web and mobile development. Have an extensive frontend background. Ultimately moved onto iOS Swift development. I enjoy all the challenges this industry offers: delivery, technology, innovation and ongoing learning. Always trying to keep things simple, stay light and responsive, adapt to ever-changing environment.
+Self-taught developer with experience in web (6 years) and mobile (1.5 years) development. Have an extensive frontend background. Ultimately moved onto iOS Swift development. I enjoy all the challenges this industry offers: delivery, technology, innovation and ongoing learning. Always trying to keep things simple, stay light and responsive, adapt to ever-changing environment.
 
 ## Education
 Tyumen State University, Tyumen, Russia
@@ -29,7 +29,7 @@ UIKit, SwiftUI, CoreData, Firebase, SpriteKit, AVFoundation, ReactJS, Angular
 
 2016-2020: [**BidFox**](https://bidfox.ru/#/access/login) - in this company I worked as a Front End Developer with a team of developers to create and maintain web platforms and web apps.
 
-2013-2016: **Self-Employed** - during this time I was an individual Front End Developer working as a freelancer/contractor.
+2013-2016: **Self-Employed** - during this time I was an individual Frontend Developer working as a freelancer/contractor. Some projects can be found [**here**](https://github.com/MikeRaccoon/Frontend)
 
 ## Accomplishments and Personal Projects
 
